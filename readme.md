@@ -46,7 +46,7 @@ Create a Full Stack Web Application with the following items:
 9. Refactoring the code
 10. Deployed to Heroku
 
-# User Story<a name="user-story"></a>
+# User Story/Features<a name="user-story"></a>
 
      As a user I want to build an application where I
      can view the job posting.
@@ -55,23 +55,23 @@ Create a Full Stack Web Application with the following items:
      Then I am presented of the homepage with the navigation bar, links button of all jobs and job categories.
      When I click the all jobs 
      Then I am presented with all the job posting with all the information, owner, payment offer and method, location, and job description
-  When I click the link to the owner
-  Then I am presented with the owner email link, the owner ratings and a message box to message them.
-  When I send a message then the notification will appear to the owner dashboard and the message will appear in the message box.
-  When I click the email link
-  Then I am presented of email box to email the owner or applicant
-  When I click the category button link
-  Then I am presented of the job information, option to hit likes on it, option to apply, and option to put comment on that category.
-  When I clicked the dashboard in the navaigation
-  Then I am presented of a form to create post, I can view the table of contents of jobs posted, the table of jobs where I applied, the table of jobs that I am     selected, and a table of jobs that I completed.
-  When I click the option to select applicant
-  Then I am presented of all the lists of employees to select on
-  When I click the login button
-  Then I am presented of form to enter my username and password
-  And if I am not a user
-  Then I am presented to sign up instead
-  When I click the logout button
-   Then I am presented with the homepage
+     When I click the link to the owner
+     Then I am presented with the owner email link, the owner ratings and a message box to message them.
+     When I send a message then the notification will appear to the owner dashboard and the message will appear in the message box.
+     When I click the email link
+     Then I am presented of email box to email the owner or applicant
+     When I click the category button link
+     Then I am presented of the job information, option to hit likes on it, option to apply, and option to put comment on that category.
+     When I clicked the dashboard in the navaigation
+     Then I am presented of a form to create post, I can view the table of contents of jobs posted, the table of jobs where I applied, the table of jobs that I am     selected, and a table of jobs that I completed.
+     When I click the option to select applicant
+     Then I am presented of all the lists of employees to select on
+     When I click the login button
+     Then I am presented of form to enter my username and password
+     And if I am not a user
+     Then I am presented to sign up instead
+     When I click the logout button
+     Then I am presented with the homepage
 
 
 # Installation and Usage<a name="usage"></a>
@@ -82,8 +82,6 @@ snaphot
 <img width="1781" alt="Screen Shot 2022-01-02 at 2 15 03 PM" src="https://user-images.githubusercontent.com/65073138/147894025-4a2b79df-1d96-46cf-a3e1-26537c10b330.png">
 
 
-The project was uploaded to GitHub at the following repository:
-[tbellenger/coding-bc-project-2](https://github.com/tbellenger/coding-bc-project-2)
 You can access the deployed application with the Heroku link:
 [FixUP.com](https://fixup-job.herokuapp.com/jobs)
 
@@ -91,20 +89,20 @@ To install the project follow these steps:
 
 Clone the application from GitHub with:
 
-git clone [Github Repository]
+     git clone [Github Repository]
 
 From the root folder, install the dependencies with:
 
-npm install
+    npm install
 Run the app with:
 
-node server.js
+    node server.js
 
 # Tools and software <a name="tools"></a>
-NODE.Js packages
-Heroku, Github
-Express.JS, MySQL, Sequelize ORM
-BULMA /CSS frameworks
+    NODE.Js packages
+    Heroku, Github
+    Express.JS, MySQL, Sequelize ORM
+    BULMA /CSS frameworks
 
 # Questions<a name="questions"></a>
 If you have questions or you want to share comments, we will be glad to hear from you. Please contact us at 
