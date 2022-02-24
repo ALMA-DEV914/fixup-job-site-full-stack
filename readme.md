@@ -1,6 +1,6 @@
 # FixUp <a name="fixup"></a>
 
-The Github link [tbellenger/coding-bc-project-2](https://github.com/tbellenger/coding-bc-project-2)
+[The Github link](https://github.com/ALMA-DEV914/fixup-job-site-full-stack)
 
 View the page on Heroku [FixUP.com](https://fixup-job.herokuapp.com/jobs)
 
