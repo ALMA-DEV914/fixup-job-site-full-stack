@@ -48,13 +48,13 @@ Create a Full Stack Web Application with the following items:
 
 # User Story<a name="user-story"></a>
 
-  As a user I want to build an application where I
-  can view the job posting.
+     As a user I want to build an application where I
+     can view the job posting.
 
-  When I clicked the link page
-  Then I am presented of the homepage with the navigation bar, links button of all jobs and job categories.
-  When I click the all jobs 
-  Then I am presented with all the job posting with all the information, owner, payment offer and method, location, and job description
+     When I clicked the link page
+     Then I am presented of the homepage with the navigation bar, links button of all jobs and job categories.
+     When I click the all jobs 
+     Then I am presented with all the job posting with all the information, owner, payment offer and method, location, and job description
   When I click the link to the owner
   Then I am presented with the owner email link, the owner ratings and a message box to message them.
   When I send a message then the notification will appear to the owner dashboard and the message will appear in the message box.
